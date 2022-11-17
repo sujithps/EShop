@@ -8,7 +8,6 @@ import java.util.List;
 
 @RestController
 public class ProductController {
-
     @GetMapping("products")
     public List<Product> getAllProducts() {
         return List.of(
