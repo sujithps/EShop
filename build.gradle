@@ -13,7 +13,7 @@ repositories {
 }
 
 ext {
-    lombokVersion = '1.18.24'
+    lombokVersion = '1.18.30'
     springVersion = '3.1.4'
     postgresVersion = '42.5.0'
 }
